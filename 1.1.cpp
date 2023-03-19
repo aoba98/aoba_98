@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int main(){
     int n=0,sum=0;//n表示输入数字个数，sum表示数字总和
