@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 void FindMax(int* a,int n){
  int* DP=new int[n]{0};
