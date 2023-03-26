@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 void KnapSack(int n,int capacity,int *p,int *v){//函数接口为物品数量，背包容量，价格数组，体积数组
     int **DP=new int*[n+1]{0};
